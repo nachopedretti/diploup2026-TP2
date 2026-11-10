@@ -1,5 +1,5 @@
 # TP2 – Smoking Prediction
-Pedretti Jose Ignacio
+## Pedretti Jose Ignacio
 Desarrollar un modelo de Machine Learning para predecir si una persona es fumadora o no, utilizando distintas características de salud.
 
 ## Desarrollo
