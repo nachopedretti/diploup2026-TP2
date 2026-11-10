@@ -102,3 +102,13 @@ El archivo final es `results/smoking_predictions.csv`, con las columnas `ID` y `
 - `models/`: modelos entrenados.
 - `results/`: predicciones finales.
 - `requirements.txt`: dependencias del proyecto.
+
+## Cómo ejecutar el proyecto
+
+Trabajé las 6 notebooks en Google Colab, siguiendo el orden del 01 al 06.
+
+Los datos y modelos se cargan desde GitHub, sin necesidad de conectar Google Drive.
+
+En la notebook 06 se aplican las mismas transformaciones del entrenamiento y se genera el archivo final con las predicciones.
+
+El F1-score obtenido en Test fue de 70,53%.
